@@ -1,6 +1,3 @@
-import pygame
-import random
-
 # Pygame'i başlat
 pygame.init()
 
