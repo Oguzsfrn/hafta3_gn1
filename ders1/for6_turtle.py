@@ -1,9 +1,12 @@
-import turtle, random
+from turtle import *
+import random
 
 # for aa in range(4):
 #     turtle.forward(100)
 #     turtle.right(90)
 
+speed(10)
+renk = ["red","blue"]
 # turtle.goto(100,200)
 for x in range(10):
     turtle.up()
